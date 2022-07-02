@@ -34,12 +34,12 @@ At this point in time, the database utilizes only 1 table to contain all the stu
 
 # Development Environment
 
-Visual Studio Code
-Git / GitHub
+* Visual Studio Code
+* Git / GitHub
 
-Python
-SQLite3
-Pandas
+* Python
+* SQLite3
+* Pandas
 
 # Useful Websites
 
